@@ -1,3 +1,4 @@
+import com.meetup.StatsdClient;
 
 public class StatsdJavaDemo {
 
